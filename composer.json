@@ -1,0 +1,14 @@
+{
+    "name": "bloody-hell/xdan-datetimepicker",
+    "description": "Composer package for xdan/datetimepicker",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "type": "extension",
+    "authors": [],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "bloody_hell\\xdan_datetimepicker\\" : ""
+        }
+    }
+}
