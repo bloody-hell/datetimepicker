@@ -5,7 +5,6 @@
     "license": "proprietary",
     "type": "extension",
     "authors": [],
-    "require": {},
     "autoload": {
         "psr-4": {
             "bloody_hell\\xdan_datetimepicker\\" : ""
